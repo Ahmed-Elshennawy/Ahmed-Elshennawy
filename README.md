@@ -28,7 +28,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg2Zm84aXY1YmduZjd3Nm9haTRuYml2cGVjdTJ5dXU2cGx5cmFtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBk2Fz6VjvyxhvY/giphy.gif" width=5%> Programming Languages
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyOXFiY2NvOXhleXcyYzlpeWsxdnVoOXFpaGJzZXVueDUzMWxzMXdpdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/source.gif" width=5%> Programming Languages
 
 <p align="center">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white">
@@ -36,6 +36,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white">
 </p>
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Tools & Technologies
@@ -49,6 +50,25 @@
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"/>
+</p>
+
+### <img src="https://i.pinimg.com/originals/c6/df/a2/c6dfa22150790c670c988c5196f6ba0e.gif" width=5%> Flutter
+
+<p align="center">
+  <img alt="BloC" src="https://img.shields.io/badge/BloC-%231E90FF.svg?style=plastic&logo=bloc&logoColor=white"/>
+  <img alt="Cubit" src="https://img.shields.io/badge/Cubit-%23FF4500.svg?style=plastic&logo=cubit&logoColor=white"/>
+  <img alt="Provider" src="https://img.shields.io/badge/Provider-%234285F4.svg?style=plastic"/>
+  <img alt="GetX" src="https://img.shields.io/badge/GetX-%23E91E63.svg?style=plastic"/>
+  <img alt="Flutter Secure Storage" src="https://img.shields.io/badge/Flutter_Secure_Storage-%23FFD700.svg?style=plastic"/>
+  <img alt="Shared Preferences" src="https://img.shields.io/badge/Shared_Preferences-%23FFA500.svg?style=plastic"/>
+  <img alt="Hive" src="https://img.shields.io/badge/Hive-%23FFC107.svg?style=plastic&logo=hive&logoColor=black"/>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%230074C1.svg?style=plastic&logo=sqlite&logoColor=white"/>
+  <img alt="Zego" src="https://img.shields.io/badge/Zego-%23FF69B4.svg?style=plastic"/>
+  <img alt="File Storage" src="https://img.shields.io/badge/File_Storage-%23ADFF2F.svg?style=plastic"/>
+  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-%230055FF.svg?style=plastic&logo=stripe&logoColor=white"/>
+  <img alt="Jitsi" src="https://img.shields.io/badge/Jitsi-%23FF0000.svg?style=plastic&logo=jitsi&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black"/>
+  <img alt="get_it" src="https://img.shields.io/badge/get_it-%239B59B6.svg?style=plastic"/>
 </p>
 
 ## 🔥 GitHub Stats
