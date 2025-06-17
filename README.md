@@ -20,7 +20,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with Me
 
 <p align="center">
-  <a href="[mailto:ahmedlshennawy10@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ahmedlshennawy10@gmail.com)"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedlshennawy10@gmail.com)"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/Ahmed-Elshennawy"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://wa.me/201093757296"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
   <a href="https://www.linkedin.com/in/ahmed-elshennawy-6bb277247/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
