@@ -74,17 +74,16 @@
 
 ---
 
-<details><summary><h3>🔥 GitHub Stats</h3></summary>
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&langs_count=10&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elshennawy&theme=tokyonight&hide_border=false" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshennawy&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshennawy&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="200"/>
 </p>
-</details>
 
-<details><summary><h3>⚡ Activity Graph</h3></summary>
+## 📊 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true">
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Elshennawy&theme=tokyonight&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
