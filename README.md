@@ -28,7 +28,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
-### <img src="https://media.tenor.com/8oox5-cM_2kAAAAi/python.gif/?raw=true" width=5%> Programming Languages
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg2Zm84aXY1YmduZjd3Nm9haTRuYml2cGVjdTJ5dXU2cGx5cmFtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBk2Fz6VjvyxhvY/giphy.gif" width=5%> Programming Languages
 
 <p align="center"> 
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white">
