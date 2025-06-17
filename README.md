@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Profile!;&font=Fira%20Code&width=400&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome">
-</p>
-
 <h1 align="center">Hi 👋, I'm Ahmed Elshennawy</h1>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
@@ -34,7 +30,7 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg2Zm84aXY1YmduZjd3Nm9haTRuYml2cGVjdTJ5dXU2cGx5cmFtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH1DBk2Fz6VjvyxhvY/giphy.gif" width=5%> Programming Languages
 
-<p align="center"> 
+<p align="center">
   <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -46,13 +42,13 @@
 
 <p align="center">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black"/>
-  <img alt="Hive" src="https://img.shields.io/badge/Hive-%23FFC107.svg?style=plastic&logo=hive&logoColor=black"/>
-  <img alt="Provider" src="https://img.shields.io/badge/Provider-%234285F4.svg?style=plastic"/>
-  <img alt="GetX" src="https://img.shields.io/badge/GetX-%23E91E63.svg?style=plastic"/>
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-%230055FF.svg?style=plastic&logo=stripe&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira-%230A66C2.svg?style=plastic&logo=jira&logoColor=white"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"/>
 </p>
 
 ## 🔥 GitHub Stats
