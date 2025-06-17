@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub+Profile!;&font=Fira%20Code&width=400&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmed Elshennawy</h1>
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
